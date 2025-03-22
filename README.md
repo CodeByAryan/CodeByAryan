@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on SwatchNet<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Bachelor of Computer Science<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on **SwatchNet**, a waste management software for my final year project.  
+🌱 I’m pursuing a **Bachelor of Computer Science (2023-2025)** at Nirmala Memorial Foundation of College of Commerce and Science.  
+👨‍💻 I’m a **Web Developer** with experience in front-end and back-end development, databases, and software development.  
+🏆 I’ve participated in multiple **hackathons and competitions**. 
 
 
 ## 🌐 Socials:
