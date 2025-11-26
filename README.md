@@ -1,8 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on **SwatchNet**, a waste management software for my final year project.  
-🌱 I’m pursuing a **Bachelor of Computer Science (2023-2025)** at Nirmala Memorial Foundation of College of Commerce and Science.  
-👨‍💻 I’m a **Web Developer** with experience in front-end and back-end development, databases, and software development.  
-🏆 I’ve participated in multiple **hackathons and competitions**. 
+💫 About Me
+
+📘 Pursuing MSc in Data Science from the University of Mumbai (Kalina Campus).
+🎓 Completed BSc in Computer Science (2023–2025) from Nirmala Memorial Foundation College.
+👨‍💻 Passionate Full-Stack Web Developer & Data Science Enthusiast with experience in front-end, back-end, databases, and AI tools.
+🛠️ Have also organized a college-level hackathon as part of the Tech Club team.
+🏆 Participated in multiple hackathons, earning certifications and awards.
+🚀 Interested in AI, Data Science, Full-Stack Development, and Scalable Systems.
 
 
 ## 🌐 Socials:
