@@ -1,10 +1,15 @@
-💫 About Me
+**💫 About Me**
 
-📘 Pursuing MSc in Data Science from the University of Mumbai (Kalina Campus).
-🎓 Completed BSc in Computer Science (2023–2025) from Nirmala Memorial Foundation College.
-👨‍💻 Passionate Full-Stack Web Developer & Data Science Enthusiast with experience in front-end, back-end, databases, and AI tools.
-🛠️ Have also organized a college-level hackathon as part of the Tech Club team.
-🏆 Participated in multiple hackathons, earning certifications and awards.
+📘 Pursuing **MSc in Data Science from the University of Mumbai** (Kalina Campus).
+
+🎓 Completed **BSc in Computer Science** (2023–2025) from Nirmala Memorial Foundation College.
+
+👨‍💻 Passionate **Full-Stack Web Developer** & **Data Science Enthusiast** with experience in front-end, back-end, databases, and AI tools.
+
+🛠️ Have also **organized a college-level hackathon** as part of the Tech Club team.
+
+🏆 **Participated in multiple hackathons**, earning certifications and awards.
+
 🚀 Interested in AI, Data Science, Full-Stack Development, and Scalable Systems.
 
 
